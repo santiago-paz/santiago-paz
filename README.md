@@ -15,7 +15,6 @@ Senior Web Developer at **[Dialpad](https://www.dialpad.com/)**, based in **Berl
 | **[Parallax 360 Tour](https://github.com/santiago-paz/parallax-360-tour)** · [▶ live demo](https://parallax.santiagopaz.com) ⭐ | Depth-aware 360° panorama viewer with *real* geometric parallax. An offline pipeline chains Depth-Anything-3, SAM 2 and LaMa inpainting into a Layered Depth Image; the browser renders it as concentric three.js spheres. Python · three.js |
 | **[Bedrock GenAI Labs](https://github.com/santiago-paz/bedrock-genai-labs)** | 26 runnable labs against live Amazon Bedrock APIs - a FAISS vector store built from scratch, hybrid dense + BM25 retrieval with reranking, an agent loop written by hand, guardrails, prompt-injection hardening and LLM-as-judge evaluation. Python · boto3 |
 | **[Reddit Idea Miner](https://github.com/santiago-paz/reddit-idea-miner)** | Pipeline that mines Reddit and Hacker News for product-opportunity signals, then classifies and ranks them with the Anthropic API. Python |
-| **[DiffCV](https://github.com/santiago-paz/DiffCV)** | Open-source AI CV optimization: one structured Master Profile, per-posting CV generation via LLM agents, and a CRM-style application pipeline. Next.js · Supabase · AI SDK |
 
 ---
 
