@@ -2,7 +2,7 @@
 
 I build AI products end to end - RAG pipelines, LLM agents and multi-agent systems, wrapped in interfaces people actually want to use. TypeScript and Next.js on the surface, Python on the model side.
 
-Senior Software Engineer at **[Dialpad](https://www.dialpad.com/)**, based in **Berlin, Germany** 🇩🇪 · Italian citizen, EU work authorized · 3rd place globally at the Hack-Nation Global AI Hackathon.
+Senior Web Developer at **[Dialpad](https://www.dialpad.com/)**, based in **Berlin, Germany** - Italian citizen, EU work authorized · 3rd place globally at the Hack-Nation Global AI Hackathon.
 
 ---
 
