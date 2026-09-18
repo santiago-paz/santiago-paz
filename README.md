@@ -1,8 +1,8 @@
 ### Hi!, I'm Santiago
 
-I build AI products end to end - RAG pipelines, LLM agents and multi-agent systems, wrapped in interfaces people actually want to use. TypeScript and Next.js on the surface, Python on the model side.
+I'm a software engineer with 13+ years of experience. In my career, I have learned that what matters is not the technologies themselves, but the solutions they enable us to create. So I focus on helping people use tools effectively without over-worrying about the engine behind them.
 
-Senior Software Engineer at **[Dialpad](https://www.dialpad.com/)**, based in **Berlin, Germany** - Italian citizen, EU work authorized · 3rd place globally at the Hack-Nation Global AI Hackathon.
+Senior Web Developer at **[Dialpad](https://www.dialpad.com/)**, based in **Berlin, Germany** - Italian citizen, EU work authorized · 3rd place globally at the Hack-Nation Global AI Hackathon.
 
 ---
 
@@ -13,7 +13,7 @@ Senior Software Engineer at **[Dialpad](https://www.dialpad.com/)**, based in **
 | **[Contract Lens](https://github.com/santiago-paz/contract-lens)** · [▶ live demo](https://trycontractlens.com) | Contract intelligence for small German law firms. Upload a PDF or DOCX and it returns parties, dates, clauses and renewal terms as typed data, then drives a deadline and alert pipeline so nothing slips. Built on extraction, not chat - no prompting required. Next.js 16 · Prisma · AI SDK v6 · AES-256-GCM · EN/DE |
 | **[Multi-Agent Trading Desk](https://github.com/santiago-paz/multi-agent-trading-desk)** · [▶ live demo](https://trading-desk.santiagopaz.com) | A panel of 12 LLM analyst agents evaluating CEDEAR positions, driving rebalancing and backtesting engines against a live broker API - presented as a draggable Windows 98 desktop. LangGraph · FastAPI · Next.js 16 · 98.css |
 | **[Parallax 360 Tour](https://github.com/santiago-paz/parallax-360-tour)** · [▶ live demo](https://parallax.santiagopaz.com) ⭐ | Depth-aware 360° panorama viewer with *real* geometric parallax. An offline pipeline chains Depth-Anything-3, SAM 2 and LaMa inpainting into a Layered Depth Image; the browser renders it as concentric three.js spheres. Python · three.js |
-| **[Meeting Intelligence](https://github.com/santiago-paz/meeting-intelligence)** | Ask questions across meeting transcripts and get answers with timestamped citations you can click and check. It answers in two modes: classic embedding search over chunked speaker turns, and an agent that reads a meeting index and opens only the turns it needs. An eval runs the same 23 golden questions through both modes, and every answer saves a trace with its latency and cost. FastAPI · Next.js 16 · Postgres + pgvector · local embeddings · Claude |
+| **[Meeting Intelligence](https://github.com/santiago-paz/meeting-intelligence)** | Query meeting transcripts with clickable, timestamped citations using two retrieval modes: classic vector search and an agentic index lookup. Benchmark options across 23 golden questions with full cost and latency tracing per answer. |
 | **[Reddit Idea Miner](https://github.com/santiago-paz/reddit-idea-miner)** | Pipeline that mines Reddit and Hacker News for product-opportunity signals, then classifies and ranks them with the Anthropic API. Python |
 
 ---
